@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kiamir
-- 👀 I’m interested in electronic, Artificial Intelligence and ...
-- 🌱 I’m currently studying elecronic engenieering
+- 👀 I’m interested in nanoelectronic, Computer Vision, Automatization and control.
+- 🌱 I’m currently studying electronic engenieering
 - 💞️ I’m looking to collaborate on Computer Vision projects.
 - 📫 How to reach me ...
 
